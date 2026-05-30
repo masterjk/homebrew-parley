@@ -1,8 +1,8 @@
 class Parley < Formula
   desc "Two AI agents debate at a tmux table and return a joint recommendation"
   homepage "https://github.com/masterjk/parley"
-  url "https://github.com/masterjk/parley/archive/refs/tags/0.9.1.tar.gz"
-  sha256 "f6f10e07db344be31cc0e063c0bd435873f815c7e4f3cc2503bd3711d611a932"
+  url "https://github.com/masterjk/parley/archive/refs/tags/0.9.2.tar.gz"
+  sha256 "bff79b635762175813988d1d3d5b0b794ae5c835772c1a1137ce5b7f9c1cb8b3"
   license "MIT"
 
   depends_on "tmux"
